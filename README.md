@@ -1,6 +1,6 @@
-# Metodologias Ágeis de Desenvolvimento de Software (2023/2024)
+# Comunicação de Dados e Redes I (2023/2024)
 ## Ferramentas
-[<kbd> <br> **Moodle** <br> </kbd>](https://moodle.maieutica.pt/course/view.php?id=18705)
+[<kbd> <br> **Moodle** <br> </kbd>](https://moodle.maieutica.pt/course/view.php?id=18692)
 ## Informações da Disciplina
 ### Descrição 
 --
@@ -10,8 +10,8 @@
 - [ ] Prática: 
 - [ ] Teórico-prática: 
 ### Informações do Professor:
-- Nome: 
-- E-Mail: 
+- Nome: Fernando Marques Correia
+- E-Mail: D012112@ipmaia.pt
 ## Resumos
 
 ## 
