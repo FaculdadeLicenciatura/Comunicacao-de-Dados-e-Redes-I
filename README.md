@@ -12,7 +12,7 @@
 - [ ] Teórico-prática: 
 ### Informações do Professor:
 - Nome: Fernando Marques Correia
-- E-Mail: D012112@ipmaia.pt
+- E-Mail: fcorreia@ipmaia.pt
 ## Resumos
 
 ## 
