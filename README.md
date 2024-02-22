@@ -1,6 +1,7 @@
 # Comunicação de Dados e Redes I (2023/2024)
 ## Ferramentas
-[<kbd> <br> **Moodle** <br> </kbd>](https://moodle.maieutica.pt/course/view.php?id=18692)
+- [<kbd> <br> **Moodle** <br> </kbd>](https://moodle.maieutica.pt/course/view.php?id=18692)
+- [<kbd> <br> **E-Campus** <br> </kbd>](https://e-campus.ismai.pt/004358/AnoLectivo/2023/Curso_31003/1_Ano/6C1146/default.aspx)
 ## Informações da Disciplina
 ### Descrição 
 --
