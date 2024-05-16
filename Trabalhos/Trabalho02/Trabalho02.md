@@ -1,17 +1,17 @@
 # Relatório do Lab2 - Visualizar a Tabela de Endereços MAC do Switch
 ==================================================================
 
-Neste laboratório, exploramos o funcionamento dos switches de LAN de camada 2, especialmente focando na visualização e compreensão da tabela de endereços MAC do switch. O objetivo foi construir e configurar a rede conforme uma topologia genérica fornecida e, em seguida, examinar como os switches aprendem e registram endereços MAC dos dispositivos conectados a eles.
+Neste experimento, exploramos o funcionamento dos switches de LAN de camada 2, com foco na visualização e compreensão da tabela de endereços MAC do switch. O objetivo foi configurar e montar a rede de acordo com uma topologia genérica fornecida e, em seguida, examinar como os switches aprendem e registram endereços MAC dos dispositivos conectados a eles.
 
 ## Parte 1: Construir e Configurar a Rede
 --------------------------------------
 
 ### Passos Realizados
 
-1.  Cabeamento da rede: Todos os dispositivos foram conectados conforme a topologia fornecida, garantindo a conectividade entre os PCs e os switches.
-2.  Configuração dos hosts PC: Os endereços IP foram configurados nos PCs conforme uma configuração genérica para teste.
-3.  Inicialização dos switches: Os switches foram inicializados conforme necessário para garantir que estivessem prontos para configuração.
-4.  Configuração básica dos switches: Os ajustes básicos, como nome do dispositivo e senhas, foram configurados em ambos os switches.
+-   Cabeamento da rede: Todos os dispositivos foram conectados conforme a topologia fornecida, garantindo a conectividade entre os PCs e os switches.
+-   Configuração dos hosts PC: Os endereços IP foram configurados nos PCs conforme uma configuração genérica para teste.
+-   Inicialização dos switches: Os switches foram inicializados conforme necessário para garantir que estivessem prontos para configuração.
+-   Configuração básica dos switches: Os ajustes básicos, como nome do dispositivo e senhas, foram configurados em ambos os switches.
 
 ## Parte 2: Examinar a Tabela de Endereços MAC do Switch
 -----------------------------------------------------
@@ -37,7 +37,7 @@ Neste laboratório, exploramos o funcionamento dos switches de LAN de camada 2, 
 
 ### Passo 4: Pingar os dispositivos na rede e observar a tabela de endereços MAC do switch
 
--   ARP em PC-B: O comando `arp -a` foi utilizado para verificar os pares de endereço IP-MAC aprendidos pelo ARP em PC-B.
+-   ARP em PC-B: O comando arp -a foi utilizado para verificar os pares de endereço IP-MAC aprendidos pelo ARP em PC-B.
     -   Foram aprendidos [número] pares de endereço IP-MAC.
 -   Ping dos dispositivos: PC-B foi usado para pingar PC-A, S1 e S2 para testar a conectividade.
     -   Todos os dispositivos receberam respostas bem-sucedidas.
@@ -50,4 +50,4 @@ Em redes maiores, podem surgir desafios na gestão e manutenção de caches ARP 
 ## Conclusão
 ---------
 
-O laboratório foi concluído com sucesso, demonstrando como os switches de rede aprendem e registram endereços MAC dos dispositivos conectados a eles. A compreensão deste processo é fundamental para administradores de rede na manutenção e resolução de problemas em redes locais. O laboratório também proporcionou insights sobre os desafios que podem surgir em redes maiores e possíveis estratégias para enfrentá-los.
+O laboratório foi concluído com sucesso, demonstrando como os switches de rede aprendem e registram endereços MAC dos dispositivos conectados a eles. Essa compreensão é essencial para administradores de rede na manutenção e resolução de problemas em redes locais. Além disso, o experimento destacou os desafios enfrentados em redes maiores e sugeriu possíveis estratégias para mitigá-los.
