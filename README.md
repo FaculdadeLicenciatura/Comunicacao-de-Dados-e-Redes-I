@@ -22,7 +22,9 @@
 | 6/06/2024 | Funcionamento de um router / LAB3 - Configuração Básica de um Router |      3 |
 | 13/06/2024 | LAB3 - Configuração Básica de um Router |      3 |
 | 20/06/2024 | Frequência 2 |      3 |
-### Testes
+### Importante
+![image](https://github.com/FaculdadeLicenciatura/Comunicacao-de-Dados-e-Redes-I/assets/50460047/dcd35a5b-4c63-4429-a613-fdf956a54793)
+
 ### Tipo: 
 - [ ] Teórica: 
 - [ ] Prática: 
