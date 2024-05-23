@@ -24,6 +24,7 @@
 | 20/06/2024 | Frequência 2 |      3 |
 ### Importante
 ![image](https://github.com/FaculdadeLicenciatura/Comunicacao-de-Dados-e-Redes-I/assets/50460047/dcd35a5b-4c63-4429-a613-fdf956a54793)
+![image](https://github.com/FaculdadeLicenciatura/Comunicacao-de-Dados-e-Redes-I/assets/50460047/24594194-2a8e-448a-ad19-77c830e3b872)
 
 ### Tipo: 
 - [ ] Teórica: 
